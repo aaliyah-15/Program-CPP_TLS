@@ -4,7 +4,7 @@ A terminal-based simple calculator application designed to perform various arith
 
 ## 🧑‍💻 About the Project
 
-This project was created by **Aaliyah Barakatullah Asura**, a **Biomedical Engineering student of the 2024 batch**, part of the **Newton group**, as a task for the **TLS.
+This project was created by **Aaliyah Barakatullah Asura**, a **Biomedical Engineering student of the 2024 batch**, part of the **Newton group**, as a task for the TLS.
 
 ### 🌟 Features:
 - Supports the following arithmetic operations:
